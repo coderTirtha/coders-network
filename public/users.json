@@ -1,0 +1,122 @@
+[
+    {
+        "id": "u1a2b3c4d5e",
+        "name": "John Doe",
+        "userName": "johndoe123",
+        "image": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "coverImage": "https://i.ibb.co/W6TzG1M/cover1.jpg",
+        "profileCategory": "Tech Enthusiast",
+        "job": "Software Engineer",
+        "jobPlace": "Google Inc.",
+        "location": "San Francisco, CA",
+        "bio": "Passionate about technology and coding. Always seeking to learn and innovate in the tech world."
+    },
+    {
+        "id": "v1b2c3d4e5f",
+        "name": "Jane Smith",
+        "userName": "janesmith456",
+        "image": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+        "coverImage": "https://i.ibb.co/729jfrJ/cover2.jpg",
+        "profileCategory": "Designer",
+        "job": "Graphic Designer",
+        "jobPlace": "Design360",
+        "location": "New York City, NY",
+        "bio": "Creating stunning visuals and designs. Love turning creative ideas into reality."
+    },
+    {
+        "id": "w1c2d3e4f5g",
+        "name": "Alice Johnson",
+        "userName": "alicej",
+        "image": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "coverImage": "https://i.ibb.co/W6TzG1M/cover1.jpg",
+        "profileCategory": "Foodie",
+        "job": "Chef",
+        "jobPlace": "Kacchi Dine, Chittagong",
+        "location": "Paris, France",
+        "bio": "Exploring the world of culinary delights. Cooking is my passion and my art."
+    },
+    {
+        "id": "x1d2e3f4g5h",
+        "name": "Bob Wilson",
+        "userName": "bobthewriter",
+        "image": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
+        "coverImage": "https://i.ibb.co/Y2sPYx5/cover3.jpg",
+        "profileCategory": "Writer",
+        "job": "Author",
+        "jobPlace": "Shororupa Publications",
+        "location": "London, UK",
+        "bio": "Penning down stories and ideas. Every word has a purpose and a story to tell."
+    },
+    {
+        "id": "y1e2f3g4h5i",
+        "name": "Emily Davis",
+        "userName": "emilyd",
+        "image": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "coverImage": "https://i.ibb.co/Y2sPYx5/cover3.jpg",
+        "profileCategory": "Artist",
+        "job": "Painter",
+        "jobPlace": "Burger Paints Ltd.",
+        "location": "Barcelona, Spain",
+        "bio": "Expressing emotions through colors and brushstrokes. Art is my way of connecting with the world."
+    },
+    {
+        "id": "z1f2g3h4i5j",
+        "name": "Michael Brown",
+        "userName": "michaelbfit",
+        "image": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+        "coverImage": "https://i.ibb.co/729jfrJ/cover2.jpg",
+        "profileCategory": "Fitness Enthusiast",
+        "job": "Personal Trainer",
+        "jobPlace": "Fit Mania Ltd.",
+        "location": "Los Angeles, CA",
+        "bio": "Promoting a healthy lifestyle. Fitness is not just a hobby; it's a way of life."
+    },
+    {
+        "id": "a2g3h4i5j6k",
+        "name": "Sarah Wilson",
+        "userName": "sarahinspace",
+        "image": "https://i.ibb.co/yRPxRJm/girl2.jpg",
+        "coverImage": "https://i.ibb.co/W6TzG1M/cover1.jpg",
+        "profileCategory": "Astronomer",
+        "job": "Astrophysicist",
+        "jobPlace": "Astro-Experts",
+        "location": "Houston, TX",
+        "bio": "Exploring the cosmos and unraveling the mysteries of the universe."
+    },
+    {
+        "id": "b2h4i5j6k7l",
+        "name": "David Lee",
+        "userName": "davidtech",
+        "image": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "coverImage": "https://i.ibb.co/h7cXh1L/cover4.jpg",
+        "profileCategory": "Tech Enthusiast",
+        "job": "Tech Blogger",
+        "jobPlace": "Tech180",
+        "location": "San Jose, CA",
+        "bio": "Sharing insights and knowledge about the latest tech trends and innovations."
+    },
+    {
+        "id": "c2i5j6k7l8m",
+        "name": "Linda Johnson",
+        "userName": "lindatravels",
+        "image": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "coverImage": "https://i.ibb.co/729jfrJ/cover2.jpg",
+        "profileCategory": "Traveler",
+        "job": "Travel Blogger",
+        "jobPlace": "Let's Go",
+        "location": "Sydney, Australia",
+        "bio": "Exploring the world, one adventure at a time. Travel is my passion and my lifestyle."
+    },
+    {
+        "id": "d2j6k7l8m9n",
+        "name": "Richard Smith",
+        "userName": "richardfoodie",
+        "image": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "coverImage": "https://i.ibb.co/80BKs5G/cover5.jpg",
+        "profileCategory": "Foodie",
+        "job": "Gourmet Chef",
+        "jobPlace": "Da Signature Restaurant",
+        "location": "Tokyo, Japan",
+        "bio": "Creating culinary masterpieces that tantalize the taste buds. Food is my canvas."
+    }
+]

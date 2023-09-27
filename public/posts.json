@@ -1,0 +1,486 @@
+[
+    {
+        "postId": "p1a2b3c4d5e",
+        "userId": "u1a2b3c4d5e",
+        "name": "John Doe",
+        "title": "Exploring the World of C Programming",
+        "body": "Today, I delved into the fascinating world of C programming. It's amazing how this language forms the foundation of so much in the tech world. Excited to learn more!",
+        "postedDate": "2023-09-15",
+        "userImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "postImage": "https://i.ibb.co/bNGhYK8/Rectangle-2-2.png",
+        "comments": [
+            {
+                "name": "Alice Smith",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "That sounds fascinating, John! Best of luck on your journey into C programming!"
+            },
+            {
+                "name": "David Johnson",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "I remember my first days with C. It's a powerful language with endless possibilities."
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5f",
+        "userId": "v1b2c3d4e5f",
+        "name": "Jane Smith",
+        "title": "Designing a New Logo",
+        "body": "Spent the day working on a new logo design project. It's always a creative challenge to come up with something unique and visually appealing!",
+        "postedDate": "2023-09-14",
+        "userImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+        "postImage": "https://i.ibb.co/ZJrRCjv/post-Cover-Logo-Design.jpg",
+        "comments": [
+            {
+                "name": "John Doe",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "Your design work is always impressive, Jane!"
+            },
+            {
+                "name": "Ella Davis",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "I can't wait to see the new logo, Jane. Your creativity knows no bounds!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5g",
+        "userId": "w1c2d3e4f5g",
+        "name": "Alice Johnson",
+        "title": "A Culinary Adventure in Paris",
+        "body": "Tasted some of the most amazing dishes in Paris today. French cuisine is truly a work of art! 🍽️",
+        "postedDate": "2023-09-13",
+        "userImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "postImage": "https://i.ibb.co/7gPfjdL/post-Cover-Food.jpg",
+        "comments": [
+            {
+                "name": "Michael Brown",
+                "thumbnailUserImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+                "comment": "Paris is a culinary paradise! Any specific dish that stood out?"
+            },
+            {
+                "name": "Emily Davis",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "I've always wanted to try authentic French cuisine. Sounds like an incredible experience!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5h",
+        "userId": "x1d2e3f4g5h",
+        "name": "Bob Wilson",
+        "title": "Writing a New Chapter",
+        "body": "Started working on a new chapter for my upcoming book. Writing is an adventure in itself!",
+        "postedDate": "2023-09-12",
+        "userImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
+        "postImage": "https://i.ibb.co/5ssSvN5/post-Cover-Writing.jpg",
+        "comments": [
+            {
+                "name": "Linda Johnson",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "I'm eagerly awaiting your next book, Bob. Your writing is captivating!"
+            },
+            {
+                "name": "George Miller",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "Writing truly is an adventure of its own. Best of luck with your new chapter!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5i",
+        "userId": "y1e2f3g4h5i",
+        "name": "Emily Davis",
+        "title": "Colors of Barcelona",
+        "body": "Took a stroll through the vibrant streets of Barcelona today. The architecture and artistry here are truly inspiring. 🎨",
+        "postedDate": "2023-09-11",
+        "userImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "postImage": "https://i.ibb.co/Jds3VY5/post-Cover-Travel.jpg",
+        "comments": [
+            {
+                "name": "John Doe",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "Barcelona is a city filled with artistic wonders. Did you visit any museums?"
+            },
+            {
+                "name": "Hannah Clark",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "The colors of Barcelona always leave a lasting impression. Truly a beautiful city!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5j",
+        "userId": "z1f2g3h4i5j",
+        "name": "Michael Brown",
+        "title": "Morning Workout Routine",
+        "body": "Started the day with a refreshing workout. Physical fitness is the key to a healthy life! 💪",
+        "postedDate": "2023-09-10",
+        "userImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+        "postImage": "https://i.ibb.co/b2F2ydr/post-Cover-Morning-Workout.jpg",
+        "comments": [
+            {
+                "name": "Jane Smith",
+                "thumbnailUserImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+                "comment": "Starting the day with a workout is a great habit, Michael! Keep it up!"
+            },
+            {
+                "name": "Ella Davis",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "I need to get back into a workout routine. Your post is motivating, Michael!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5k",
+        "userId": "a2g3h4i5j6k",
+        "name": "Sarah Wilson",
+        "title": "Stargazing Adventures",
+        "body": "Spent the night stargazing and marveling at the beauty of the cosmos. Space has always fascinated me. ✨🌌",
+        "postedDate": "2023-09-09",
+        "userImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "postImage": "https://i.ibb.co/M24yD2f/post-Cover-Star.jpg",
+        "comments": [
+            {
+                "name": "David Lee",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "Stargazing is such a humbling experience. Any specific celestial objects you observed?"
+            },
+            {
+                "name": "Isabella Adams",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "I've always wanted to go stargazing. Your post makes me want to do it even more!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5l",
+        "userId": "David Lee",
+        "name": "David Lee",
+        "title": "Tech Trends Report",
+        "body": "Just published a new blog post about the latest tech trends. It's amazing how technology continues to evolve!",
+        "postedDate": "2023-09-08",
+        "userImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "postImage": "https://i.ibb.co/ynyR9w4/Rectangle-2-1.png",
+        "comments": [
+            {
+                "name": "Alice Johnson",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "I'll definitely give your blog post a read, David. Tech trends are always fascinating!"
+            },
+            {
+                "name": "Linda Johnson",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "Tech is changing so fast. Your insights are valuable, David!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5m",
+        "userId": "c2i5j6k7l8m",
+        "name": "Linda Johnson",
+        "title": "Adventures Down Under",
+        "body": "Exploring the breathtaking landscapes of Australia. Every corner of this country is a natural wonder!",
+        "postedDate": "2023-09-07",
+        "userImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "postImage": "https://i.ibb.co/Jds3VY5/post-Cover-Travel.jpg",
+        "comments": [
+            {
+                "name": "Sarah Wilson",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "Australia is on my travel bucket list. Your posts are making me want to visit even more!"
+            },
+            {
+                "name": "John Doe",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "The landscapes in Australia are truly unique. Enjoy your adventures, Linda!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5n",
+        "userId": "d2j6k7l8m9n",
+        "name": "Richard Smith",
+        "title": "Culinary Masterpieces",
+        "body": "Cooked up a storm in the kitchen today. Food is not just sustenance; it's an art form. 🍲",
+        "postedDate": "2023-09-06",
+        "userImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "postImage": "https://i.ibb.co/7gPfjdL/post-Cover-Food.jpg",
+        "comments": [
+            {
+                "name": "Jane Smith",
+                "thumbnailUserImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+                "comment": "Your culinary creations always look amazing, Richard!"
+            },
+            {
+                "name": "Michael Brown",
+                "thumbnailUserImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+                "comment": "I can almost smell the delicious aromas from here! Share your recipe, please."
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5o",
+        "userId": "u1a2b3c4d5e",
+        "name": "John Doe",
+        "title": "Learning React",
+        "body": "Started my journey into React today. Exciting times ahead in the world of front-end development!",
+        "postedDate": "2023-09-05",
+        "userImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "postImage": "https://i.ibb.co/zQKy0vZ/post-Cover-React.jpg",
+        "comments": [
+            {
+                "name": "Ella Davis",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "React is a powerful framework! Enjoy your learning journey, John."
+            },
+            {
+                "name": "Michael Brown",
+                "thumbnailUserImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+                "comment": "Front-end development is an exciting field. React will open up many opportunities for you."
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5p",
+        "userId": "v1b2c3d4e5f",
+        "name": "Jane Smith",
+        "title": "Creating Digital Art",
+        "body": "Digital art allows for endless creativity. I'm working on a new digital masterpiece today!",
+        "postedDate": "2023-09-04",
+        "userImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+        "postImage": "https://i.ibb.co/ZJrRCjv/post-Cover-Logo-Design.jpg",
+        "comments": [
+            {
+                "name": "John Doe",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "I admire your talent in digital art, Jane. Looking forward to seeing your masterpiece!"
+            },
+            {
+                "name": "Ella Davis",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "Digital art is a fascinating world. Your creativity knows no bounds, Jane!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5q",
+        "userId": "w1c2d3e4f5g",
+        "name": "Alice Johnson",
+        "title": "French Pastry Magic",
+        "body": "Spent the afternoon perfecting the art of French pastry-making. Every bite is a delight!",
+        "postedDate": "2023-09-03",
+        "userImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "postImage": "https://i.ibb.co/7gPfjdL/post-Cover-Food.jpg",
+        "comments": [
+            {
+                "name": "Sarah Wilson",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "French pastries are heavenly! Did you make croissants?"
+            },
+            {
+                "name": "David Lee",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "I can almost taste those pastries, Alice. Share your secret recipe!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5r",
+        "userId": "x1d2e3f4g5h",
+        "name": "David Brown",
+        "title": "Writing Inspirations",
+        "body": "Found inspiration for my writing in the beauty of nature today. Sometimes, the best stories are written by Mother Earth herself.",
+        "postedDate": "2023-09-02",
+        "userImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
+        "postImage": "https://i.ibb.co/5ssSvN5/post-Cover-Writing.jpg",
+        "comments": [
+            {
+                "name": "Linda Johnson",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "Nature is a boundless source of inspiration. Can't wait to read your new stories!"
+            },
+            {
+                "name": "George Miller",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "Your writing always captures the beauty of nature, David. Keep it up!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5s",
+        "userId": "y1e2f3g4h5i",
+        "name": "Emily Davis",
+        "title": "Artistic Adventures",
+        "body": "Ventured into the local art scene today, discovering new artists and their incredible creations. Art has no boundaries!",
+        "postedDate": "2023-09-01",
+        "userImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "postImage": "https://i.ibb.co/LrZ8gP7/post-Cover-Artistic.jpg",
+        "comments": [
+            {
+                "name": "John Doe",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "Art has the power to transcend boundaries. Any standout artists you discovered?"
+            },
+            {
+                "name": "Hannah Clark",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "I love exploring the local art scene. It's always full of surprises!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5t",
+        "userId": "z1f2g3h4i5j",
+        "name": "Michael Brown",
+        "title": "Cosmic Wonders",
+        "body": "Spent the evening stargazing and contemplating the vastness of the universe. The cosmos holds endless mysteries.",
+        "postedDate": "2023-08-31",
+        "userImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+        "postImage": "https://i.ibb.co/M24yD2f/post-Cover-Star.jpg",
+        "comments": [
+            {
+                "name": "Jane Smith",
+                "thumbnailUserImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+                "comment": "Stargazing is a beautiful way to connect with the universe. Any interesting celestial sights?"
+            },
+            {
+                "name": "Isabella Adams",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "The cosmos is a never-ending source of wonder. I'm sure your evening was magical!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5u",
+        "userId": "b2h4i5j6k7l",
+        "name": "David Lee",
+        "title": "Tech Innovations",
+        "body": "Explored the latest tech innovations today. It's incredible how technology continues to shape our future!",
+        "postedDate": "2023-08-30",
+        "userImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "postImage": "https://i.ibb.co/ynyR9w4/Rectangle-2-1.png",
+        "comments": [
+            {
+                "name": "Alice Johnson",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "Tech innovations are shaping our world. Anything particularly exciting you came across?"
+            },
+            {
+                "name": "Linda Johnson",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "The tech world is always evolving. Your insights are appreciated, David!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5v",
+        "userId": "c2i5j6k7l8m",
+        "name": "Linda Johnson",
+        "title": "Exploring New Horizons",
+        "body": "Embarked on a spontaneous road trip to explore new places. Adventure awaits around every corner!",
+        "postedDate": "2023-08-29",
+        "userImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "postImage": "https://i.ibb.co/qmhyNQJ/post-Cover-travel1.jpg",
+        "comments": [
+            {
+                "name": "Sarah Wilson",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "Spontaneous road trips are the best! Any interesting places you've discovered so far?"
+            },
+            {
+                "name": "John Doe",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "Adventure is out there! Enjoy the journey, Linda."
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5w",
+        "userId": "d2j6k7l8m9n",
+        "name": "Richard Smith",
+        "title": "Gastronomic Delights",
+        "body": "Indulged in a gourmet dining experience today. Food truly brings people together!",
+        "postedDate": "2023-08-28",
+        "userImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "postImage": "https://i.ibb.co/7gPfjdL/post-Cover-Food.jpg",
+        "comments": [
+            {
+                "name": "Jane Smith",
+                "thumbnailUserImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+                "comment": "Gourmet dining is a delightful experience. Any standout dishes?"
+            },
+            {
+                "name": "Michael Brown",
+                "thumbnailUserImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+                "comment": "Fine dining is an art form in itself. Share your culinary adventure with us, Richard!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5x",
+        "userId": "u1a2b3c4d5e",
+        "name": "John Doe",
+        "title": "Mastering JavaScript",
+        "body": "Dedicated today to mastering JavaScript. It's the language of the web, and I want to be a web wizard!",
+        "postedDate": "2023-08-27",
+        "userImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "postImage": "https://i.ibb.co/F674LnF/post-Cover-Javascript.jpg",
+        "comments": [
+            {
+                "name": "Ella Davis",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "JavaScript is a powerful tool for web development. Keep up the good work, John!"
+            },
+            {
+                "name": "Michael Brown",
+                "thumbnailUserImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+                "comment": "Becoming a web wizard is a great goal, John. JavaScript is a key to unlocking many possibilities!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5y",
+        "userId": "v1b2c3d4e5f",
+        "name": "Jane Smith",
+        "title": "Photography Adventures",
+        "body": "Took my camera for a walk today, capturing the beauty of everyday life. Photography is a way to freeze moments in time.",
+        "postedDate": "2023-08-26",
+        "userImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+        "postImage": "https://i.ibb.co/wRNRTLR/post-Cover-Photography.jpg",
+        "comments": [
+            {
+                "name": "John Doe",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "Photography allows us to see the world in a new light. Any favorite shots from today?"
+            },
+            {
+                "name": "Ella Davis",
+                "thumbnailUserImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+                "comment": "Your photography always tells a beautiful story, Jane. Can't wait to see your shots!"
+            }
+        ]
+    },
+    {
+        "postId": "p1a2b3c4d5z",
+        "userId": "w1c2d3e4f5g",
+        "name": "Alice Johnson",
+        "title": "Meditation and Reflection",
+        "body": "Spent the morning in deep meditation and self-reflection. Inner peace is a treasure.",
+        "postedDate": "2023-08-25",
+        "userImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "postImage": "https://i.ibb.co/b2F2ydr/post-Cover-Morning-Workout.jpg",
+        "comments": [
+            {
+                "name": "Sarah Wilson",
+                "thumbnailUserImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+                "comment": "Meditation is a wonderful practice. Did you discover any new insights during your session?"
+            },
+            {
+                "name": "David Lee",
+                "thumbnailUserImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+                "comment": "Inner peace is indeed a treasure, Alice. Your mindfulness journey is inspiring!"
+            }
+        ]
+    }
+]
